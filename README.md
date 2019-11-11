@@ -1,5 +1,5 @@
 # formalized DFS Algorithm proof
-The formalized DFS (Deep First Search) proof is based on the graph libraries of RamifyCoq.
+The formalized DFS (Depth First Search) proof is based on the graph libraries of RamifyCoq.
 
 You can fetch the RamifyCoq files in other's repository on Github.
 
